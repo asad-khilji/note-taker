@@ -32,7 +32,7 @@ app.get("/api/notes", (req, res) => {
 });
 
 // Post function to add new notes to db.json
-app.post("/api/notes", (req, res) => {
+app.post("/api/notes/:id", (req, res) => {
     const notes = JSON.parse(fs.readFileSync("./db/db.json"));
     const newNotes = req.body;
     newNotes.id = uuid.v4();
