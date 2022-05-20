@@ -48,9 +48,9 @@
 * My GitHub username is asad-khilji
 
 ## Screenshot
-[Screenshot!](https://github.com/asad-khilji/note-taker/blob/main/public/assets/images/screenshot1.jpg)
-[Screenshot!](https://github.com/asad-khilji/note-taker/blob/main/public/assets/images/screenshot2.jpg)
-[Screenshot!](https://github.com/asad-khilji/note-taker/blob/main/public/assets/images/screenshot3.jpg)
+![screenshot1.jpg](https://github.com/asad-khilji/note-taker/blob/main/public/assets/images/screenshot1.jpg)
+![screenshot2.jpg](https://github.com/asad-khilji/note-taker/blob/main/public/assets/images/screenshot2.jpg)
+![screenshot3.jpg](https://github.com/asad-khilji/note-taker/blob/main/public/assets/images/screenshot3.jpg)
 
 ## License
 * ISC
