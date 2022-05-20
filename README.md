@@ -9,7 +9,6 @@
 - [Installation](#Installation)
 - [Questions](#Questions)
 - [Screenshot](#Screenshot)
-- [Video Walkthrough](#VideoWalkthrough)
 - [License](#License)
 
 ## Description
@@ -49,9 +48,7 @@
 * My GitHub username is asad-khilji
 
 ## Screenshot
-
-## Video Walkthrough
-* 
+[Screenshot!]()
 
 ## License
 * ISC

@@ -1,3 +1,33 @@
 [
-  2
+  8,
+  {
+    "title": "Call Bank on Friday",
+    "text": "Make payment for outstanding bills",
+    "id": 2
+  },
+  {
+    "title": "Reschedule delivery",
+    "text": "Call Fedex to re route the package",
+    "id": 3
+  },
+  {
+    "title": "Finish payroll",
+    "text": "write and sign the remaining checks\n",
+    "id": 4
+  },
+  {
+    "title": "Check in with clients",
+    "text": "Ask them how they are doing",
+    "id": 5
+  },
+  {
+    "title": "Lunch with the client",
+    "text": "Have lunch with them on thursday",
+    "id": 6
+  },
+  {
+    "title": "Balance accounts",
+    "text": "Balance account books by end of Monday",
+    "id": 7
+  }
 ]
