@@ -10,6 +10,8 @@
 - [Questions](#Questions)
 - [Screenshot](#Screenshot)
 - [License](#License)
+- [VideoWlthrough](#VideoWalkthrough)
+- [Website](#Website)
 
 ## Description
 * As a small business owner I want to be able to write and save notes
@@ -54,4 +56,10 @@
 
 ## License
 * ISC
+
+## Video Walkthrough
+* https://youtu.be/_Kg9f4QIBB8
+
+## Website
+* https://rutgers-note-challenge.herokuapp.com/
     
