@@ -1,5 +1,5 @@
 [
-  8,
+  9,
   {
     "title": "Call Bank on Friday",
     "text": "Make payment for outstanding bills",
@@ -27,7 +27,7 @@
   },
   {
     "title": "Balance accounts",
-    "text": "Balance account books by end of Monday",
-    "id": 7
+    "text": "balance account books by end of Monday",
+    "id": 8
   }
 ]
